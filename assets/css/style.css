@@ -4,9 +4,13 @@
     margin: 0;
 }
 
+/*turns the background of the webpage a light gray */
+
 body {
     background-color: #d9dcd6;
 }
+
+/* adds a seamless blue header to the top of the webpage along with making the text white and changing the font*/
 
 .header {
     padding: 20px;
@@ -15,10 +19,13 @@ body {
     color: #ffffff;
 }
 
+
+
 .header h1 {
     display: inline-block;
     font-size: 48px;
 }
+
 
 .header h1 .seo {
     color: #d9dcd6;
@@ -99,25 +106,7 @@ img {
     max-height: 200px;
 }
 
-.search-engine-optimization {
-    margin-bottom: 20px;
-    padding: 50px;
-    height: 300px;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    background-color: #0072bb;
-    color: #ffffff;
-}
-
-.online-reputation-management {
-    margin-bottom: 20px;
-    padding: 50px;
-    height: 300px;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    background-color: #0072bb;
-    color: #ffffff;
-}
-
-.social-media-marketing {
+.mainp {
     margin-bottom: 20px;
     padding: 50px;
     height: 300px;

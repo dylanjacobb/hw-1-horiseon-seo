@@ -13,5 +13,6 @@ deleted the unecessary h3 lines of code in the style.css file and replaced them 
 
 deleted and replaced the three img tag lines of code in the style.css file and replaced them with one img line of code and added the max-height: 200px; into it. I also deleted the max-width: 150px; because it wasn't needed.
 
-deleted the unecessary classes in the index.html file
+deleted the unecessary classes in the index.html file for search-engine-optimization, online-reputation-managment and social-media-marketing and replaced it with a single class of class="mainp" which stands for main paragraph.
 
+added alts to the images under the benefits div.
