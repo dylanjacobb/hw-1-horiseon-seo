@@ -4,13 +4,9 @@
     margin: 0;
 }
 
-/*turns the background of the webpage a light gray */
-
 body {
     background-color: #d9dcd6;
 }
-
-/* adds a seamless blue header to the top of the webpage along with making the text white and changing the font*/
 
 .header {
     padding: 20px;
@@ -19,13 +15,10 @@ body {
     color: #ffffff;
 }
 
-
-
 .header h1 {
     display: inline-block;
     font-size: 48px;
 }
-
 
 .header h1 .seo {
     color: #d9dcd6;

@@ -4,7 +4,7 @@
 To run this project simply click this link here to be brought to the repository. 
 * https://github.com/dylanjacobb/hw1-horiseon-seo
 
-Cick this link to go stright to the webpage!
+or Click this link to go stright to the webpage!
 * [Horiseon Webpage](file:///Users/dylanjacob/Desktop/Projects/Homework/hw1-horiseon-seo/index.html)
 
 ## **The Goal**
