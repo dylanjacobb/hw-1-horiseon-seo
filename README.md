@@ -4,8 +4,13 @@
 To run this project simply click this link here to be brought to the repository. 
 * https://github.com/dylanjacobb/hw1-horiseon-seo
 
+<<<<<<< HEAD
 or Click this link to go stright to the webpage!
 * [Horiseon Webpage](file:///Users/dylanjacob/Desktop/Projects/Homework/hw1-horiseon-seo/index.html)
+=======
+Or click this link to go stright to the webpage!
+* https://dylanjacobb.github.io/hw1-horiseon-seo/
+>>>>>>> 684c231c0f41c6b620a79a01b5ddc5cf0f26fc44
 
 ## **The Goal**
 The goal of this project was to refactor the Horiseon website by ensuring all files/code met accessibility standards for optimal search engine optimization.
