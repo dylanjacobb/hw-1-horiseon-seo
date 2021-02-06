@@ -82,6 +82,7 @@ p {
     margin-left: 20px;
 }
 
+/* I deleted the benefit-lead, benefit-brand, and benefit-cost selectors and simpy added them to the existing .benfits selector that already existed. */
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -95,17 +96,20 @@ p {
     color: #ffffff;
 }
 
+/* All of the h3 selectors that were here have been replaced by this single h3 selector. Since they all served the same purpose it didn't make sense to clutter the style.css file with excess syntax. */
 h3 {
     margin-bottom: 10px;
     text-align: center;
 }
 
+/* Condensed all of the seperate img selectors in the style.css file because all the images had the same properites and values. */
 img {
     display: block;
     margin: 10px auto;
     max-height: 200px;
 }
 
+/* Condensed the search-enginge-optimization, .online-reputation-management, and social-media-marketing paragraph selectors in the style.css because all three served the same purpose. */
 .mainp {
     margin-bottom: 20px;
     padding: 50px;
@@ -115,6 +119,7 @@ img {
     color: #ffffff;
 }
 
+/* I deleted the three search-enginge-optimization, .online-reputation-management, and social-media-marketing header 2s in the style.css because they all served the same purpose. */
 .ph2 {
     margin-bottom: 20px;
     font-size: 36px;
